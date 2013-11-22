@@ -99,3 +99,7 @@ Want to contribute?
 -------------------
 
 If you want to contribute to this project then just fork it, modify it and send a pull request. It's dead simple!
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/philwc/documentorbundle/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
